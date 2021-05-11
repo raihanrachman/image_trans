@@ -3,7 +3,7 @@ import fragment from "../shader/fragment.glsl";
 import vertex from "../shader/vertex.glsl";
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';
 import Scroll from "./scroll"
-import imagesLoaded from "imagesLoaded"
+import imagesLoaded from "./imagesLoaded"
 import { EffectComposer } from 'three/examples/jsm/postprocessing/EffectComposer.js';
 import { RenderPass } from 'three/examples/jsm/postprocessing/RenderPass.js';
 import { ShaderPass } from 'three/examples/jsm/postprocessing/ShaderPass.js';
